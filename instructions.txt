@@ -1,0 +1,12 @@
+Pasos a seguir para correr y compilar la app desktop de Street Sheriff:
+
+***Testing***
+Paso 1: Instalar todas las dependencias
+    >npm install
+
+Paso 2: Correr electron/vite
+    >npm run dev
+
+***Build***
+Paso 3: Correr el builder:
+    >npm run build

@@ -1,0 +1,23 @@
+.columnTitle {
+    width: 17%;
+  }
+
+  .columnDescription {
+    width: 35%; 
+  }
+
+  .columnDate {
+    width: 8%;
+  }
+
+  .columnActions {
+    width: 40%;
+  }
+
+  .rowSeparator {
+    border-bottom: 2px solid #eee; /* Línea separadora */
+  }
+  
+  .rowHoverEffect:hover {
+    background-color: #c7c2c2; /* Color de fondo al hacer hover */
+  }

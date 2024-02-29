@@ -1,0 +1,5 @@
+.imgFormat {
+  height: 200px;
+  width: auto;
+  object-fit: cover;
+}
